@@ -1,0 +1,451 @@
+Order ID,Order Date,Customer Name,Phone,City,Product,Category,Qty,Price,Payment Method,Status,Month,Revenue
+1032,2026-06-26,Ali Mahmoud,01169801375,Cairo,Scarf,Accessories,2.0,120.0,Vodafone Cash,Cancelled,2026-06,240.0
+1222,2026-08-04,آية خليل,01573841107,Sohag,Hoodie,Tops,1.0,450.0,Credit Card,Delivered,2026-08,450.0
+1301,2026-07-01,منى صلاح,01299957026,Alexandria,Hoodie,Tops,1.0,450.0,Credit Card,Delivered,2026-07,450.0
+1270,2026-08-25,أحمد فتحي,01214951097,Giza,Sneakers,Shoes,2.0,950.0,Cash On Delivery,Delivered,2026-08,1900.0
+1001,2026-06-04,Sara Hassan,01150165258,,Scarf,Accessories,1.0,120.0,Credit Card,Delivered,2026-06,120.0
+1387,2026-07-22,عمر السيد,Not provided,Alexandria,Sneakers,Shoes,1.0,950.0,Vodafone Cash,Cancelled,2026-07,950.0
+1446,2026-06-19,هدى عادل,01027937196,Cairo,Jeans,Bottoms,2.0,550.0,Instapay,Delivered,2026-06,1100.0
+1383,2026-08-09,ياسمين حسن,01020992514,Cairo,Sneakers,Shoes,1.0,950.0,Credit Card,Returned,2026-08,950.0
+1425,2026-08-23,رنا عادل,01517656586,Mansoura,Hoodie,Tops,1.0,450.0,Instapay,Returned,2026-08,450.0
+1217,2026-06-19,منى صلاح,01039520262,Alexandria,Sneakers,Shoes,1.0,950.0,Cash On Delivery,Delivered,2026-06,950.0
+1125,2026-07-10,أحمد إبراهيم,Not provided,Cairo,Hoodie,Tops,3.0,450.0,Instapay,Shipped,2026-07,1350.0
+1336,2026-07-17,أحمد فتحي,01082244010,Cairo,Sneakers,Shoes,1.0,950.0,Vodafone Cash,Cancelled,2026-07,950.0
+1419,2026-07-30,نور حسن,01246940799,Giza,Jeans,Bottoms,1.0,550.0,Credit Card,Delivered,2026-07,550.0
+1319,2026-06-05,حسن حسن,01190676524,Tanta,Dress,Dresses,1.0,750.0,Vodafone Cash,Cancelled,2026-06,750.0
+1399,2026-08-04,فاطمة رمضان,01156105767,Giza,Dress,Dresses,1.0,750.0,Instapay,Delivered,2026-08,750.0
+1051,2026-07-16,سارة السيد,01114835122,Sohag,Skirt,Bottoms,2.0,300.0,Instapay,Delivered,2026-07,600.0
+1206,2026-08-29,Esraa Ibrahim,01153485815,Giza,Sneakers,Shoes,1.0,950.0,Instapay,Delivered,2026-08,950.0
+1377,2026-06-27,منى رمضان,01170814396,Cairo,Blouse,Tops,2.0,320.0,Instapay,Delivered,2026-06,640.0
+1251,2026-08-28,ياسمين عبدالله,01227203928,Cairo,Skirt,Bottoms,2.0,300.0,Vodafone Cash,Returned,2026-08,600.0
+1309,2026-06-24,هدى خليل,01008254662,Cairo,Jacket,Outerwear,1.0,1100.0,Cash On Delivery,Delivered,2026-06,1100.0
+1284,2026-07-29,إسراء فتحي,01242907840,Giza,Sneakers,Shoes,1.0,950.0,Credit Card,Delivered,2026-07,950.0
+1165,2026-08-10,عمر عبدالله,01126236969,Giza,Skirt,Bottoms,2.0,300.0,Credit Card,Cancelled,2026-08,600.0
+1227,2026-08-03,Yasmine Hassan,01064264460,Assiut,Jacket,Outerwear,1.0,1100.0,Instapay,Shipped,2026-08,1100.0
+1020,2026-08-29,إسراء محمود,01059114553,Mansoura,Dress,Dresses,1.0,750.0,Instapay,Delivered,2026-08,750.0
+1416,2026-08-19,يوسف عادل,01507629695,Giza,Abaya,Dresses,1.0,900.0,Cash On Delivery,Delivered,2026-08,900.0
+1026,2026-07-17,رنا عادل,01574792854,Giza,Jacket,Outerwear,1.0,1100.0,Vodafone Cash,Delivered,2026-07,1100.0
+1366,2026-07-29,Dina Ibrahim,01126980769,Alexandria,Blouse,Tops,1.0,320.0,Cash On Delivery,Returned,2026-07,320.0
+1408,2026-07-06,Mohamed Hassan,01291334647,Giza,Hoodie,Tops,4.0,450.0,Vodafone Cash,Delivered,2026-07,1800.0
+1273,2026-07-24,محمد عبدالله,01217874851,Giza,Hoodie,Tops,2.0,450.0,Instapay,Delivered,2026-07,900.0
+1406,2026-06-29,أحمد حسن,01533296679,Mansoura,Blouse,Tops,1.0,320.0,Vodafone Cash,Delivered,2026-06,320.0
+1373,2026-08-24,Mostafa Saad,01047199722,Alexandria,Jeans,Bottoms,1.0,550.0,Cash On Delivery,Cancelled,2026-08,550.0
+1078,2026-08-06,يوسف يوسف,01136197238,Cairo,Abaya,Dresses,2.0,900.0,Vodafone Cash,Delivered,2026-08,1800.0
+1201,2026-08-06,Yasmine Mahmoud,01227848126,,Dress,Dresses,2.0,,Instapay,Delivered,2026-08,
+1082,2026-08-08,Ahmed Saad,01216526560,Giza,Jacket,Outerwear,1.0,1100.0,Cash On Delivery,Cancelled,2026-08,1100.0
+1264,2026-08-30,رنا محمود,01094171867,Alexandria,T-Shirt,Tops,1.0,180.0,Credit Card,Cancelled,2026-08,180.0
+1203,2026-06-16,هدى السيد,01139291706,Cairo,Dress,Dresses,2.0,750.0,Vodafone Cash,Delivered,2026-06,1500.0
+1375,2026-07-19,Mariam Hassan,01035134779,Cairo,Blouse,Tops,3.0,320.0,Vodafone Cash,Delivered,2026-07,960.0
+1162,2026-07-13,منى عادل,01573406036,Giza,Jeans,Bottoms,2.0,550.0,Credit Card,Cancelled,2026-07,1100.0
+1288,2026-07-25,مريم عبدالله,01526593358,Alexandria,Jacket,Outerwear,2.0,1100.0,Credit Card,Delivered,2026-07,2200.0
+1044,2026-08-08,Ali Mahmoud,01266589120,Assiut,Hoodie,Tops,1.0,450.0,Vodafone Cash,Cancelled,2026-08,450.0
+1025,2026-07-19,Youssef Hassan,01106617861,Cairo,Skirt,Bottoms,1.0,300.0,Credit Card,Returned,2026-07,300.0
+1049,2026-07-06,Sara Mahmoud,01235254716,Cairo,Blouse,Tops,1.0,320.0,Vodafone Cash,Delivered,2026-07,320.0
+1118,2026-06-18,نور رمضان,01105613279,Sohag,Hoodie,Tops,1.0,450.0,Vodafone Cash,Delivered,2026-06,450.0
+1272,2026-08-08,يوسف عادل,01093465063,Assiut,Jeans,Bottoms,1.0,550.0,Credit Card,Delivered,2026-08,550.0
+1237,2026-06-12,فاطمة عبدالله,Not provided,Sohag,Jacket,Outerwear,1.0,1100.0,Cash On Delivery,Cancelled,2026-06,1100.0
+1097,2026-08-18,Ali Saad,01505407525,Giza,Scarf,Accessories,2.0,120.0,Cash On Delivery,Delivered,2026-08,240.0
+1448,2026-07-08,Nour Youssef,01028140380,Cairo,Skirt,Bottoms,1.0,300.0,Instapay,Cancelled,2026-07,300.0
+1376,2026-07-29,إسراء سعد,01216875391,Cairo,Jeans,Bottoms,1.0,550.0,Instapay,Cancelled,2026-07,550.0
+1086,2026-08-30,فاطمة صلاح,01069329449,Giza,Dress,Dresses,2.0,750.0,Instapay,Shipped,2026-08,1500.0
+1398,2026-07-28,سارة إبراهيم,01096347511,Cairo,Jeans,Bottoms,1.0,550.0,Instapay,Delivered,2026-07,550.0
+1358,2026-08-09,رنا يوسف,01512314334,Alexandria,Scarf,Accessories,,,Credit Card,Delivered,2026-08,
+1059,2026-08-24,Youssef Ibrahim,01135139635,Cairo,Dress,Dresses,1.0,750.0,Credit Card,Cancelled,2026-08,750.0
+1364,2026-08-11,ندى إبراهيم,01037190873,Giza,Jacket,Outerwear,1.0,1100.0,Credit Card,Cancelled,2026-08,1100.0
+1073,2026-07-09,Yasmine Hassan,01051916768,Tanta,Hoodie,Tops,1.0,450.0,Cash On Delivery,Delivered,2026-07,450.0
+1062,2026-07-24,منى فتحي,01181268518,,Dress,Dresses,1.0,,Cash On Delivery,Delivered,2026-07,
+1094,2026-06-16,Dina Ibrahim,01596732324,Mansoura,Jeans,Bottoms,4.0,550.0,Credit Card,Returned,2026-06,2200.0
+1108,2026-07-14,دينا فتحي,01197553447,Sohag,Hoodie,Tops,1.0,450.0,Credit Card,Delivered,2026-07,450.0
+1337,2026-08-15,Rana Hassan,01282498852,Giza,T-Shirt,Tops,2.0,180.0,Instapay,Shipped,2026-08,360.0
+1002,2026-07-04,هدى إبراهيم,01559358685,Cairo,Hoodie,Tops,1.0,450.0,Vodafone Cash,Shipped,2026-07,450.0
+1091,2026-06-28,أحمد رمضان,01019295578,Cairo,T-Shirt,Tops,1.0,180.0,Instapay,Delivered,2026-06,180.0
+1208,2026-06-05,Mariam Hassan,01565723609,,Jacket,Outerwear,1.0,1100.0,Cash On Delivery,Delivered,2026-06,1100.0
+1232,2026-07-23,Dina Hassan,01082735267,Alexandria,Abaya,Dresses,1.0,900.0,Cash On Delivery,Delivered,2026-07,900.0
+1311,2026-06-27,كريم حسن,01164671344,Cairo,Jeans,Bottoms,3.0,550.0,Cash On Delivery,Cancelled,2026-06,1650.0
+1236,2026-06-22,سارة محمود,01250090303,Cairo,Skirt,Bottoms,1.0,300.0,Instapay,Returned,2026-06,300.0
+1043,2026-06-23,مصطفى سعد,01259828487,Cairo,Abaya,Dresses,2.0,900.0,Cash On Delivery,Delivered,2026-06,1800.0
+1279,2026-06-11,سارة محمود,Not provided,Sohag,Blouse,Tops,1.0,320.0,Cash On Delivery,Delivered,2026-06,320.0
+1089,2026-07-19,كريم السيد,01536656315,Alexandria,Dress,Dresses,1.0,750.0,Vodafone Cash,Shipped,2026-07,750.0
+1038,2026-06-05,Dina Mahmoud,01288454746,Alexandria,Blouse,Tops,1.0,320.0,Vodafone Cash,Delivered,2026-06,320.0
+1240,2026-07-19,سارة رمضان,01008896011,Cairo,Scarf,Accessories,2.0,120.0,Instapay,Delivered,2026-07,240.0
+1328,2026-08-07,آية سعد,01209521719,Giza,Dress,Dresses,1.0,750.0,Credit Card,Delivered,2026-08,750.0
+1055,2026-07-17,رنا عبدالله,01025533331,Giza,Jacket,Outerwear,1.0,,Instapay,Delivered,2026-07,
+1407,2026-08-07,كريم فتحي,01161638319,Giza,T-Shirt,Tops,1.0,180.0,Cash On Delivery,Shipped,2026-08,180.0
+1365,2026-08-12,فاطمة السيد,01597737630,Alexandria,T-Shirt,Tops,1.0,180.0,Vodafone Cash,Delivered,2026-08,180.0
+1213,2026-07-26,Karim Youssef,01082660733,Assiut,Abaya,Dresses,3.0,900.0,Cash On Delivery,Delivered,2026-07,2700.0
+1355,2026-06-02,مريم عادل,01137405291,Giza,Jeans,Bottoms,1.0,550.0,Cash On Delivery,Shipped,2026-06,550.0
+1173,2026-06-10,سارة يوسف,01026629380,Cairo,Scarf,Accessories,1.0,120.0,Credit Card,Shipped,2026-06,120.0
+1327,2026-07-31,سارة عادل,01019107278,Alexandria,T-Shirt,Tops,1.0,180.0,Credit Card,Delivered,2026-07,180.0
+1439,2026-08-01,سارة يوسف,01277382686,Alexandria,Abaya,Dresses,2.0,900.0,Vodafone Cash,Delivered,2026-08,1800.0
+1085,2026-08-05,كريم خليل,01561132227,Alexandria,Dress,Dresses,2.0,750.0,Cash On Delivery,Delivered,2026-08,1500.0
+1420,2026-08-09,Omar Mahmoud,01512597087,Sohag,Skirt,Bottoms,1.0,300.0,Vodafone Cash,Shipped,2026-08,300.0
+1263,2026-07-24,علي محمود,Not provided,Mansoura,Scarf,Accessories,3.0,120.0,Cash On Delivery,Cancelled,2026-07,360.0
+1136,2026-08-18,ياسمين صلاح,01091729180,Alexandria,T-Shirt,Tops,3.0,180.0,Credit Card,Delivered,2026-08,540.0
+1278,2026-06-10,ندى خليل,01194338857,Mansoura,Dress,Dresses,1.0,750.0,Cash On Delivery,Cancelled,2026-06,750.0
+1140,2026-07-28,دينا عادل,01542207603,Giza,Dress,Dresses,1.0,750.0,Vodafone Cash,Returned,2026-07,750.0
+1262,2026-08-21,مصطفى رمضان,01155245824,Cairo,Scarf,Accessories,1.0,120.0,Credit Card,Cancelled,2026-08,120.0
+1129,2026-08-10,أحمد عادل,01517107214,Cairo,Jacket,Outerwear,1.0,1100.0,Cash On Delivery,Returned,2026-08,1100.0
+1445,2026-07-15,كريم محمود,01262483356,Cairo,Hoodie,Tops,1.0,450.0,Instapay,Delivered,2026-07,450.0
+1230,2026-08-06,يوسف فتحي,01541679006,Alexandria,Scarf,Accessories,1.0,120.0,Credit Card,Delivered,2026-08,120.0
+1159,2026-06-15,Youssef Youssef,01502376755,Sohag,Jacket,Outerwear,3.0,1100.0,Credit Card,Returned,2026-06,3300.0
+1234,2026-08-01,منى حسن,01271889617,Giza,Blouse,Tops,1.0,320.0,Instapay,Delivered,2026-08,320.0
+1346,2026-07-18,علي محمود,01010435464,Cairo,Dress,Dresses,1.0,750.0,Instapay,Delivered,2026-07,750.0
+1363,2026-07-17,علي عبدالله,01144641947,Alexandria,Jacket,Outerwear,1.0,1100.0,Vodafone Cash,Returned,2026-07,1100.0
+1402,2026-07-06,-,01059771736,Assiut,Jeans,Bottoms,2.0,550.0,Instapay,Delivered,2026-07,1100.0
+1033,2026-08-17,إسراء عبدالله,01026850785,Cairo,Dress,Dresses,2.0,750.0,Instapay,Cancelled,2026-08,1500.0
+1395,2026-06-14,Ali Ibrahim,01118611421,Cairo,Jeans,Bottoms,1.0,550.0,Vodafone Cash,Delivered,2026-06,550.0
+1276,2026-08-28,حسن صلاح,01103690260,Cairo,Blouse,Tops,1.0,320.0,Cash On Delivery,Returned,2026-08,320.0
+1197,2026-07-05,ياسمين فتحي,01275418122,Cairo,Scarf,Accessories,2.0,120.0,Vodafone Cash,Delivered,2026-07,240.0
+1344,2026-07-19,Youssef Saad,01259206157,Mansoura,Jeans,Bottoms,1.0,550.0,Vodafone Cash,Shipped,2026-07,550.0
+1163,2026-07-21,Sara Mahmoud,01171498574,Sohag,Hoodie,Tops,1.0,450.0,Cash On Delivery,Delivered,2026-07,450.0
+1449,2026-07-08,Nada Ibrahim,01592633989,Sohag,Scarf,Accessories,3.0,120.0,Credit Card,Cancelled,2026-07,360.0
+1238,2026-06-22,عمر فتحي,01261187367,Giza,Jacket,Outerwear,1.0,,Credit Card,Delivered,2026-06,
+1345,2026-08-05,Nour Mahmoud,01244336742,Cairo,Scarf,Accessories,1.0,120.0,Cash On Delivery,Delivered,2026-08,120.0
+1075,2026-08-05,Nour Ibrahim,01221410984,Mansoura,Blouse,Tops,2.0,320.0,Credit Card,Returned,2026-08,640.0
+1385,2026-08-12,نور يوسف,01141940601,Cairo,Jeans,Bottoms,2.0,550.0,Cash On Delivery,Delivered,2026-08,1100.0
+1154,2026-06-03,Dina Hassan,01117736765,,T-Shirt,Tops,1.0,180.0,Cash On Delivery,Delivered,2026-06,180.0
+1192,2026-08-03,دينا خليل,Not provided,Tanta,Abaya,Dresses,2.0,900.0,Instapay,Delivered,2026-08,1800.0
+1300,2026-07-23,دينا السيد,01022693640,Alexandria,Jeans,Bottoms,1.0,550.0,Credit Card,Cancelled,2026-07,550.0
+1261,2026-07-26,Sara Hassan,01513413230,Cairo,Scarf,Accessories,1.0,120.0,Cash On Delivery,Shipped,2026-07,120.0
+1390,2026-07-17,يوسف سعد,01294331925,Alexandria,Jeans,Bottoms,1.0,550.0,Vodafone Cash,Delivered,2026-07,550.0
+1382,2026-08-14,إسراء صلاح,01072618604,Alexandria,Jacket,Outerwear,1.0,1100.0,Vodafone Cash,Cancelled,2026-08,1100.0
+1141,2026-07-31,Ahmed Mahmoud,01597598661,Sohag,Scarf,Accessories,3.0,,Cash On Delivery,Delivered,2026-07,
+1248,2026-07-20,إسراء رمضان,01154273359,Sohag,Dress,Dresses,2.0,750.0,Credit Card,Shipped,2026-07,1500.0
+1084,2026-07-13,إسراء رمضان,01581528376,Mansoura,T-Shirt,Tops,2.0,180.0,Credit Card,Shipped,2026-07,360.0
+1080,2026-07-31,محمد رمضان,01075594394,Sohag,Sneakers,Shoes,2.0,950.0,Vodafone Cash,Returned,2026-07,1900.0
+1138,2026-08-10,محمد فتحي,01039874664,Giza,Blouse,Tops,2.0,320.0,Vodafone Cash,Delivered,2026-08,640.0
+1347,2026-07-08,هدى السيد,01079000213,Cairo,Abaya,Dresses,3.0,900.0,Vodafone Cash,Delivered,2026-07,2700.0
+1290,2026-07-26,حسن رمضان,Not provided,Cairo,Sneakers,Shoes,2.0,950.0,Vodafone Cash,Cancelled,2026-07,1900.0
+1132,2026-08-16,ندى رمضان,01209579916,Giza,Blouse,Tops,1.0,320.0,Cash On Delivery,Shipped,2026-08,320.0
+1239,2026-08-15,يوسف محمود,01553616778,Giza,Jeans,Bottoms,2.0,550.0,Credit Card,Returned,2026-08,1100.0
+1131,2026-08-10,Hoda Saad,01021185687,Alexandria,Skirt,Bottoms,1.0,300.0,Credit Card,Delivered,2026-08,300.0
+1268,2026-06-03,ندى إبراهيم,01185356746,Sohag,Skirt,Bottoms,1.0,300.0,Instapay,Delivered,2026-06,300.0
+1315,2026-08-11,منى إبراهيم,Not provided,Giza,Skirt,Bottoms,1.0,300.0,Instapay,Delivered,2026-08,300.0
+1229,2026-07-31,مريم عبدالله,01234220595,Assiut,Sneakers,Shoes,1.0,950.0,Vodafone Cash,Delivered,2026-07,950.0
+1036,2026-08-31,ندى السيد,01244441157,Mansoura,Hoodie,Tops,1.0,450.0,Credit Card,Delivered,2026-08,450.0
+1334,2026-08-18,Mostafa Mahmoud,01124329721,Sohag,Abaya,Dresses,1.0,900.0,Vodafone Cash,Returned,2026-08,900.0
+1438,2026-08-18,Ahmed Saad,01521141878,Tanta,Skirt,Bottoms,1.0,300.0,Instapay,Cancelled,2026-08,300.0
+1182,2026-07-07,هدى إبراهيم,01149818678,Tanta,T-Shirt,Tops,2.0,180.0,Vodafone Cash,Delivered,2026-07,360.0
+1047,2026-06-19,آية محمود,01029957181,Cairo,Jeans,Bottoms,1.0,550.0,Credit Card,Delivered,2026-06,550.0
+1143,2026-07-07,نور إبراهيم,01282654146,Tanta,Hoodie,Tops,1.0,450.0,Credit Card,Delivered,2026-07,450.0
+1379,2026-08-13,نور محمود,01139610349,Sohag,Abaya,Dresses,2.0,900.0,Credit Card,Returned,2026-08,1800.0
+1400,2026-06-01,Yasmine Mahmoud,01150955728,Giza,Skirt,Bottoms,1.0,300.0,Cash On Delivery,Delivered,2026-06,300.0
+1021,2026-07-01,Nada Mahmoud,01072380131,Sohag,Sneakers,Shoes,1.0,950.0,Credit Card,Returned,2026-07,950.0
+1191,2026-08-27,ندى إبراهيم,01141782226,Mansoura,Blouse,Tops,3.0,320.0,Cash On Delivery,Cancelled,2026-08,960.0
+1259,2026-08-09,رنا سعد,01576217694,,Scarf,Accessories,1.0,120.0,Cash On Delivery,Delivered,2026-08,120.0
+1331,2026-08-16,Ahmed Youssef,01598282150,Tanta,T-Shirt,Tops,1.0,180.0,Cash On Delivery,Cancelled,2026-08,180.0
+1123,2026-07-05,Fatma Ibrahim,01275043453,Cairo,Abaya,Dresses,2.0,900.0,Cash On Delivery,Delivered,2026-07,1800.0
+1092,2026-07-25,رنا عبدالله,01099673413,Alexandria,Blouse,Tops,2.0,320.0,Vodafone Cash,Delivered,2026-07,640.0
+1158,2026-07-05,هدى صلاح,01576716091,Cairo,Dress,Dresses,4.0,750.0,Instapay,Delivered,2026-07,3000.0
+1171,2026-07-28,Hoda Saad,01281591950,Assiut,Sneakers,Shoes,2.0,950.0,Vodafone Cash,Shipped,2026-07,1900.0
+1122,2026-08-18,Aya Saad,01266101043,Giza,T-Shirt,Tops,1.0,180.0,Vodafone Cash,Delivered,2026-08,180.0
+1436,2026-07-22,آية سعد,01030484333,Mansoura,Jacket,Outerwear,1.0,1100.0,Instapay,Returned,2026-07,1100.0
+1244,2026-08-01,رنا يوسف,01017997408,Cairo,Abaya,Dresses,1.0,900.0,Cash On Delivery,Cancelled,2026-08,900.0
+1218,2026-07-19,Hoda Ibrahim,01094501957,Cairo,Dress,Dresses,1.0,,Vodafone Cash,Delivered,2026-07,
+1046,2026-08-22,أحمد صلاح,Not provided,Tanta,Hoodie,Tops,1.0,450.0,Cash On Delivery,Shipped,2026-08,450.0
+1198,2026-06-11,إسراء حسن,01109327415,Giza,T-Shirt,Tops,1.0,,Credit Card,Shipped,2026-06,
+1391,2026-08-22,-,01098800421,Alexandria,Skirt,Bottoms,3.0,300.0,Credit Card,Delivered,2026-08,900.0
+1332,2026-08-30,Nada Hassan,01163293919,Tanta,Abaya,Dresses,2.0,900.0,Cash On Delivery,Cancelled,2026-08,1800.0
+1207,2026-08-19,Mostafa Youssef,Not provided,Cairo,Scarf,Accessories,3.0,120.0,Instapay,Cancelled,2026-08,360.0
+1056,2026-08-23,Fatma Hassan,01545568693,Cairo,Blouse,Tops,2.0,320.0,Instapay,Delivered,2026-08,640.0
+1168,2026-08-09,هدى محمود,01179216115,Mansoura,Abaya,Dresses,2.0,900.0,Instapay,Delivered,2026-08,1800.0
+1069,2026-08-26,إسراء فتحي,01012639014,Cairo,Blouse,Tops,2.0,320.0,Cash On Delivery,Returned,2026-08,640.0
+1422,2026-06-02,دينا يوسف,01106639977,Sohag,Scarf,Accessories,1.0,120.0,Instapay,Delivered,2026-06,120.0
+1166,2026-08-08,سارة فتحي,01585016171,Tanta,Dress,Dresses,,750.0,Cash On Delivery,Cancelled,2026-08,
+1444,2026-06-03,عمر عادل,01281703408,Mansoura,T-Shirt,Tops,1.0,180.0,Cash On Delivery,Returned,2026-06,180.0
+1102,2026-08-11,محمد عبدالله,01510557804,Cairo,Blouse,Tops,1.0,320.0,Instapay,Delivered,2026-08,320.0
+1177,2026-08-20,ندى حسن,01088685720,Mansoura,Sneakers,Shoes,1.0,950.0,Instapay,Delivered,2026-08,950.0
+1326,2026-07-12,Youssef Youssef,01539306420,Assiut,Blouse,Tops,3.0,320.0,Vodafone Cash,Returned,2026-07,960.0
+1076,2026-07-21,Omar Mahmoud,01123048645,Giza,Jacket,Outerwear,1.0,,Vodafone Cash,Cancelled,2026-07,
+1064,2026-08-17,Dina Mahmoud,01072126608,Cairo,T-Shirt,Tops,1.0,180.0,Instapay,Returned,2026-08,180.0
+1216,2026-06-20,Fatma Mahmoud,Not provided,Giza,Jeans,Bottoms,2.0,550.0,Cash On Delivery,Delivered,2026-06,1100.0
+1267,2026-07-29,Nada Ibrahim,01582912648,,Jeans,Bottoms,3.0,550.0,Vodafone Cash,Delivered,2026-07,1650.0
+1226,2026-06-21,سارة صلاح,01501388117,Alexandria,Sneakers,Shoes,2.0,950.0,Instapay,Delivered,2026-06,1900.0
+1004,2026-07-21,أحمد فتحي,01511757453,Mansoura,Jeans,Bottoms,2.0,550.0,Instapay,Delivered,2026-07,1100.0
+1034,2026-07-12,مصطفى عبدالله,01136298543,Alexandria,Hoodie,Tops,1.0,450.0,Credit Card,Shipped,2026-07,450.0
+1368,2026-07-18,Sara Mahmoud,01111948101,Alexandria,Dress,Dresses,1.0,750.0,Credit Card,Delivered,2026-07,750.0
+1120,2026-07-01,إسراء عبدالله,01059991853,Assiut,Jacket,Outerwear,1.0,1100.0,Cash On Delivery,Delivered,2026-07,1100.0
+1357,2026-07-01,كريم رمضان,01049316287,Assiut,Jeans,Bottoms,1.0,550.0,Cash On Delivery,Delivered,2026-07,550.0
+1354,2026-06-28,Ahmed Hassan,01595901734,Alexandria,Hoodie,Tops,2.0,450.0,Instapay,Delivered,2026-06,900.0
+1133,2026-07-11,Ali Mahmoud,01290795519,Assiut,Blouse,Tops,1.0,320.0,Vodafone Cash,Delivered,2026-07,320.0
+1146,2026-07-15,سارة عادل,01276231598,Alexandria,Jacket,Outerwear,1.0,,Vodafone Cash,Cancelled,2026-07,
+1431,2026-06-16,عمر فتحي,01055723801,Alexandria,Sneakers,Shoes,2.0,950.0,Cash On Delivery,Delivered,2026-06,1900.0
+1109,2026-08-30,محمد صلاح,01057531164,Alexandria,T-Shirt,Tops,1.0,180.0,Credit Card,Returned,2026-08,180.0
+1392,2026-08-02,محمد حسن,01223241814,Alexandria,Dress,Dresses,1.0,750.0,Credit Card,Cancelled,2026-08,750.0
+1210,2026-08-04,Nada Youssef,01155995984,Giza,Hoodie,Tops,1.0,450.0,Credit Card,Returned,2026-08,450.0
+1074,2026-08-03,Ahmed Ibrahim,01263284461,Assiut,Scarf,Accessories,2.0,120.0,Credit Card,Returned,2026-08,240.0
+1378,2026-08-29,عمر السيد,01503780936,Sohag,Hoodie,Tops,1.0,450.0,Instapay,Delivered,2026-08,450.0
+1362,2026-06-19,عمر إبراهيم,01105892073,Mansoura,Jeans,Bottoms,1.0,550.0,Cash On Delivery,Returned,2026-06,550.0
+1410,2026-06-08,Mostafa Youssef,01097309376,Mansoura,Jeans,Bottoms,2.0,,Cash On Delivery,Delivered,2026-06,
+1418,2026-08-19,فاطمة عبدالله,01204489090,Mansoura,Jacket,Outerwear,1.0,1100.0,Instapay,Delivered,2026-08,1100.0
+1015,2026-06-04,Nada Hassan,Not provided,Cairo,Blouse,Tops,3.0,,Vodafone Cash,Shipped,2026-06,
+1187,2026-07-22,يوسف السيد,01275986426,Giza,T-Shirt,Tops,3.0,180.0,Cash On Delivery,Shipped,2026-07,540.0
+1110,2026-08-15,إسراء خليل,01132131355,Giza,Skirt,Bottoms,3.0,300.0,Instapay,Cancelled,2026-08,900.0
+1112,2026-08-03,علي عبدالله,01052595774,Cairo,Scarf,Accessories,2.0,120.0,Vodafone Cash,Delivered,2026-08,240.0
+1250,2026-08-16,سارة عادل,01196718168,Cairo,T-Shirt,Tops,1.0,180.0,Cash On Delivery,Cancelled,2026-08,180.0
+1088,2026-07-10,مصطفى سعد,01520204750,Giza,Sneakers,Shoes,1.0,950.0,Instapay,Delivered,2026-07,950.0
+1384,2026-06-28,ندى يوسف,01152745261,Assiut,T-Shirt,Tops,3.0,180.0,Credit Card,Cancelled,2026-06,540.0
+1404,2026-07-22,إسراء عادل,01178630876,Cairo,Jacket,Outerwear,3.0,1100.0,Cash On Delivery,Delivered,2026-07,3300.0
+1152,2026-06-22,مريم رمضان,01147066493,Giza,T-Shirt,Tops,1.0,180.0,Credit Card,Delivered,2026-06,180.0
+1437,2026-06-14,أحمد السيد,01081987207,Giza,Abaya,Dresses,3.0,900.0,Instapay,Delivered,2026-06,2700.0
+1068,2026-06-14,Hassan Mahmoud,01236463083,Alexandria,Sneakers,Shoes,1.0,950.0,Cash On Delivery,Delivered,2026-06,950.0
+1087,2026-08-30,Nada Hassan,01005551351,Alexandria,Sneakers,Shoes,1.0,950.0,Cash On Delivery,Returned,2026-08,950.0
+1325,2026-07-10,فاطمة عبدالله,01117050043,Cairo,Dress,Dresses,1.0,750.0,Credit Card,Delivered,2026-07,750.0
+1339,2026-07-14,يوسف عادل,01043115071,Giza,Scarf,Accessories,2.0,120.0,Vodafone Cash,Delivered,2026-07,240.0
+1007,2026-08-17,Mariam Hassan,01197673638,Tanta,Skirt,Bottoms,1.0,300.0,Cash On Delivery,Delivered,2026-08,300.0
+1090,2026-07-02,Mohamed Mahmoud,01129718478,Alexandria,Dress,Dresses,2.0,750.0,Cash On Delivery,Returned,2026-07,1500.0
+1241,2026-07-15,Mona Ibrahim,01065880990,Mansoura,Dress,Dresses,2.0,750.0,Cash On Delivery,Shipped,2026-07,1500.0
+1447,2026-07-06,حسن إبراهيم,01057817573,Mansoura,Scarf,Accessories,1.0,120.0,Cash On Delivery,Delivered,2026-07,120.0
+1235,2026-07-10,Mohamed Youssef,01262225762,Giza,Hoodie,Tops,2.0,,Instapay,Returned,2026-07,
+1079,2026-08-23,محمد فتحي,01175166816,,T-Shirt,Tops,1.0,180.0,Cash On Delivery,Delivered,2026-08,180.0
+1409,2026-08-31,رنا يوسف,01172090599,Alexandria,Dress,Dresses,1.0,750.0,Cash On Delivery,Delivered,2026-08,750.0
+1381,2026-08-13,سارة حسن,01527714645,Alexandria,Jeans,Bottoms,1.0,550.0,Instapay,Delivered,2026-08,550.0
+1269,2026-06-07,Aya Ibrahim,01241972986,Cairo,Abaya,Dresses,4.0,900.0,Vodafone Cash,Delivered,2026-06,3600.0
+1111,2026-07-16,ياسمين يوسف,01518954648,Cairo,Scarf,Accessories,1.0,120.0,Cash On Delivery,Shipped,2026-07,120.0
+1369,2026-06-04,Youssef Hassan,01547029670,Cairo,Skirt,Bottoms,1.0,300.0,Credit Card,Returned,2026-06,300.0
+1356,2026-06-02,محمد خليل,01141785406,Alexandria,Blouse,Tops,1.0,320.0,Cash On Delivery,Delivered,2026-06,320.0
+1220,2026-07-25,Esraa Youssef,01241656216,Sohag,Jeans,Bottoms,1.0,550.0,Credit Card,Shipped,2026-07,550.0
+1053,2026-07-27,Nour Saad,01171426460,Cairo,Dress,Dresses,1.0,750.0,Cash On Delivery,Delivered,2026-07,750.0
+1058,2026-07-14,آية عادل,01051244513,Alexandria,Jacket,Outerwear,1.0,1100.0,Credit Card,Cancelled,2026-07,1100.0
+1114,2026-06-17,Hoda Saad,01127876452,Sohag,T-Shirt,Tops,3.0,180.0,Cash On Delivery,Delivered,2026-06,540.0
+1441,2026-07-01,مريم عبدالله,01510642904,Tanta,Hoodie,Tops,2.0,450.0,Instapay,Delivered,2026-07,900.0
+1005,2026-07-30,أحمد حسن,01061877321,Sohag,Dress,Dresses,1.0,750.0,Vodafone Cash,Returned,2026-07,750.0
+1127,2026-08-12,Fatma Saad,01122387732,,Dress,Dresses,1.0,750.0,Cash On Delivery,Delivered,2026-08,750.0
+1231,2026-07-03,أحمد فتحي,01235713359,Cairo,Jeans,Bottoms,2.0,550.0,Credit Card,Cancelled,2026-07,1100.0
+1414,2026-07-11,أحمد محمود,01203231779,Alexandria,Jacket,Outerwear,1.0,1100.0,Credit Card,Cancelled,2026-07,1100.0
+1322,2026-08-20,Karim Mahmoud,01132776752,Cairo,Scarf,Accessories,1.0,120.0,Credit Card,Delivered,2026-08,120.0
+1233,2026-07-10,Mohamed Youssef,01272083835,Alexandria,Blouse,Tops,1.0,320.0,Cash On Delivery,Shipped,2026-07,320.0
+1349,2026-08-11,Mostafa Ibrahim,01151908834,Giza,Jeans,Bottoms,1.0,550.0,Instapay,Delivered,2026-08,550.0
+1303,2026-08-24,Omar Ibrahim,01501202749,Giza,Sneakers,Shoes,3.0,950.0,Credit Card,Cancelled,2026-08,2850.0
+1077,2026-06-10,فاطمة السيد,01572961937,Alexandria,Abaya,Dresses,1.0,900.0,Cash On Delivery,Delivered,2026-06,900.0
+1151,2026-06-16,سارة رمضان,Not provided,Alexandria,Hoodie,Tops,1.0,450.0,Cash On Delivery,Shipped,2026-06,450.0
+1372,2026-08-29,يوسف رمضان,01521155851,Cairo,Jacket,Outerwear,4.0,1100.0,Instapay,Shipped,2026-08,4400.0
+1070,2026-07-20,نور يوسف,01022492941,Cairo,T-Shirt,Tops,1.0,180.0,Instapay,Delivered,2026-07,180.0
+1009,2026-06-14,رنا السيد,01151148088,Alexandria,Hoodie,Tops,2.0,450.0,Instapay,Shipped,2026-06,900.0
+1215,2026-08-07,نور رمضان,01024651431,Alexandria,Sneakers,Shoes,2.0,950.0,Vodafone Cash,Delivered,2026-08,1900.0
+1298,2026-08-15,يوسف عادل,Not provided,Giza,Skirt,Bottoms,,,Vodafone Cash,Delivered,2026-08,
+1305,2026-06-11,محمد عبدالله,01549509693,Giza,Hoodie,Tops,1.0,450.0,Cash On Delivery,Delivered,2026-06,450.0
+1396,2026-08-01,أحمد السيد,01563223430,Alexandria,Jeans,Bottoms,1.0,550.0,Credit Card,Delivered,2026-08,550.0
+1304,2026-06-24,ندى رمضان,01256290719,Sohag,Hoodie,Tops,3.0,450.0,Cash On Delivery,Delivered,2026-06,1350.0
+1196,2026-08-02,آية عادل,01583261183,Assiut,Abaya,Dresses,2.0,900.0,Cash On Delivery,Delivered,2026-08,1800.0
+1167,2026-08-22,Karim Saad,01157660347,Giza,Sneakers,Shoes,3.0,950.0,Cash On Delivery,Delivered,2026-08,2850.0
+1306,2026-07-22,أحمد عادل,01117276144,Sohag,Hoodie,Tops,1.0,450.0,Cash On Delivery,Delivered,2026-07,450.0
+1179,2026-08-25,دينا فتحي,01239806196,Cairo,Abaya,Dresses,,900.0,Instapay,Returned,2026-08,
+1389,2026-08-05,Karim Saad,01046977772,Giza,Blouse,Tops,1.0,320.0,Instapay,Cancelled,2026-08,320.0
+1330,2026-06-17,علي سعد,01548571512,Alexandria,Sneakers,Shoes,2.0,950.0,Instapay,Delivered,2026-06,1900.0
+1386,2026-06-14,Mariam Ibrahim,01017384578,Assiut,T-Shirt,Tops,1.0,180.0,Cash On Delivery,Delivered,2026-06,180.0
+1202,2026-08-31,Not Found,Not provided,Cairo,Skirt,Bottoms,1.0,300.0,Cash On Delivery,Delivered,2026-08,300.0
+1186,2026-08-29,Dina Youssef,01024356719,Sohag,Hoodie,Tops,1.0,450.0,Cash On Delivery,Delivered,2026-08,450.0
+1096,2026-07-16,Omar Mahmoud,01518995808,Alexandria,Jacket,Outerwear,1.0,1100.0,Cash On Delivery,Shipped,2026-07,1100.0
+1367,2026-07-23,منى السيد,01015782276,Sohag,Scarf,Accessories,1.0,120.0,Instapay,Delivered,2026-07,120.0
+1394,2026-08-04,Esraa Mahmoud,01108450420,Tanta,Blouse,Tops,1.0,320.0,Instapay,Delivered,2026-08,320.0
+1142,2026-07-04,منى إبراهيم,01005585907,Sohag,Blouse,Tops,2.0,320.0,Cash On Delivery,Delivered,2026-07,640.0
+1190,2026-06-09,Dina Mahmoud,01162395082,Mansoura,Jacket,Outerwear,1.0,1100.0,Credit Card,Delivered,2026-06,1100.0
+1157,2026-06-23,سارة عبدالله,01236418801,Tanta,Jacket,Outerwear,1.0,1100.0,Instapay,Returned,2026-06,1100.0
+1429,2026-08-08,نور رمضان,01576296651,Cairo,Jeans,Bottoms,1.0,550.0,Cash On Delivery,Delivered,2026-08,550.0
+1320,2026-06-27,عمر فتحي,01568741303,Alexandria,Dress,Dresses,1.0,750.0,Cash On Delivery,Returned,2026-06,750.0
+1371,2026-08-27,Youssef Ibrahim,01556069368,Sohag,Abaya,Dresses,1.0,900.0,Instapay,Delivered,2026-08,900.0
+1421,2026-08-31,محمد عادل,01556280937,Cairo,Hoodie,Tops,1.0,450.0,Credit Card,Delivered,2026-08,450.0
+1144,2026-08-02,Ali Ibrahim,01092377376,Cairo,Skirt,Bottoms,1.0,300.0,Credit Card,Cancelled,2026-08,300.0
+1249,2026-07-21,Rana Ibrahim,01175136156,Cairo,Skirt,Bottoms,2.0,300.0,Cash On Delivery,Returned,2026-07,600.0
+1211,2026-07-28,علي خليل,Not provided,Alexandria,Skirt,Bottoms,1.0,300.0,Vodafone Cash,Returned,2026-07,300.0
+1359,2026-08-12,مريم محمود,01059669636,Giza,Sneakers,Shoes,2.0,950.0,Instapay,Delivered,2026-08,1900.0
+1028,2026-07-10,علي صلاح,Not provided,Giza,Hoodie,Tops,2.0,450.0,Cash On Delivery,Cancelled,2026-07,900.0
+1016,2026-07-06,مصطفى فتحي,01235683082,Cairo,Jeans,Bottoms,1.0,550.0,Cash On Delivery,Delivered,2026-07,550.0
+1258,2026-07-31,محمد سعد,01112421657,Alexandria,Dress,Dresses,2.0,750.0,Vodafone Cash,Delivered,2026-07,1500.0
+1164,2026-06-23,Mohamed Youssef,01171368539,Assiut,Sneakers,Shoes,2.0,950.0,Vodafone Cash,Delivered,2026-06,1900.0
+1137,2026-06-22,محمد عبدالله,01583387572,Giza,T-Shirt,Tops,2.0,180.0,Cash On Delivery,Delivered,2026-06,360.0
+1286,2026-06-18,إسراء رمضان,01541666548,Alexandria,Blouse,Tops,1.0,320.0,Instapay,Returned,2026-06,320.0
+1188,2026-06-01,يوسف يوسف,01097335570,Cairo,Abaya,Dresses,1.0,900.0,Instapay,Returned,2026-06,900.0
+1155,2026-08-27,سارة السيد,Not provided,Cairo,Blouse,Tops,1.0,320.0,Cash On Delivery,Delivered,2026-08,320.0
+1228,2026-07-09,منى سعد,01004166657,,T-Shirt,Tops,2.0,180.0,Credit Card,Delivered,2026-07,360.0
+1113,2026-08-15,أحمد رمضان,01511220325,Cairo,Jeans,Bottoms,1.0,550.0,Vodafone Cash,Returned,2026-08,550.0
+1433,2026-07-20,Dina Mahmoud,Not provided,Cairo,Scarf,Accessories,1.0,120.0,Instapay,Delivered,2026-07,120.0
+1254,2026-07-20,ندى فتحي,01268630671,Assiut,Blouse,Tops,1.0,320.0,Vodafone Cash,Delivered,2026-07,320.0
+1106,2026-07-17,مصطفى خليل,01012616566,Alexandria,Dress,Dresses,1.0,750.0,Credit Card,Delivered,2026-07,750.0
+1370,2026-07-14,Hassan Mahmoud,01196303314,Alexandria,Abaya,Dresses,2.0,900.0,Cash On Delivery,Delivered,2026-07,1800.0
+1296,2026-06-21,Mohamed Ibrahim,01287408894,Tanta,Skirt,Bottoms,1.0,300.0,Credit Card,Shipped,2026-06,300.0
+1063,2026-06-04,مصطفى يوسف,01552930986,,Jacket,Outerwear,3.0,1100.0,Vodafone Cash,Shipped,2026-06,3300.0
+1352,2026-08-13,Mariam Hassan,01156201038,Cairo,Jacket,Outerwear,1.0,1100.0,Instapay,Delivered,2026-08,1100.0
+1204,2026-06-07,Yasmine Youssef,01192407532,Cairo,Skirt,Bottoms,1.0,300.0,Instapay,Cancelled,2026-06,300.0
+1351,2026-07-20,ندى إبراهيم,01125430393,Giza,Jeans,Bottoms,1.0,550.0,Credit Card,Delivered,2026-07,550.0
+1150,2026-08-11,Karim Youssef,01198622848,Cairo,Skirt,Bottoms,2.0,300.0,Instapay,Shipped,2026-08,600.0
+1126,2026-08-24,علي إبراهيم,01215240970,Cairo,T-Shirt,Tops,1.0,180.0,Instapay,Delivered,2026-08,180.0
+1342,2026-06-24,علي رمضان,01030012157,Sohag,Dress,Dresses,1.0,,Vodafone Cash,Delivered,2026-06,
+1161,2026-08-03,ندى عادل,01097040587,Cairo,Scarf,Accessories,1.0,120.0,Instapay,Returned,2026-08,120.0
+1023,2026-08-08,إسراء فتحي,01556048123,Sohag,Blouse,Tops,4.0,320.0,Credit Card,Delivered,2026-08,1280.0
+1145,2026-08-07,Dina Saad,01018200031,Cairo,Sneakers,Shoes,1.0,950.0,Credit Card,Cancelled,2026-08,950.0
+1093,2026-07-03,Nour Youssef,01098071266,Giza,Blouse,Tops,1.0,320.0,Instapay,Delivered,2026-07,320.0
+1318,2026-07-02,كريم يوسف,Not provided,Sohag,Abaya,Dresses,2.0,900.0,Cash On Delivery,Cancelled,2026-07,1800.0
+1324,2026-06-28,حسن إبراهيم,01079396415,Tanta,Sneakers,Shoes,1.0,950.0,Credit Card,Delivered,2026-06,950.0
+1297,2026-07-29,سارة إبراهيم,01061460235,Giza,Sneakers,Shoes,2.0,950.0,Cash On Delivery,Shipped,2026-07,1900.0
+1040,2026-07-26,ياسمين صلاح,01557108629,Giza,Skirt,Bottoms,1.0,300.0,Vodafone Cash,Delivered,2026-07,300.0
+1310,2026-07-21,Yasmine Youssef,01164467738,,Sneakers,Shoes,1.0,950.0,Credit Card,Shipped,2026-07,950.0
+1128,2026-07-30,سارة إبراهيم,01008376281,Cairo,Jeans,Bottoms,1.0,550.0,Credit Card,Returned,2026-07,550.0
+1008,2026-06-10,محمد خليل,01262195478,Cairo,T-Shirt,Tops,3.0,180.0,Credit Card,Delivered,2026-06,540.0
+1024,2026-08-23,Rana Mahmoud,01091011652,Alexandria,Jeans,Bottoms,2.0,550.0,Cash On Delivery,Returned,2026-08,1100.0
+1275,2026-08-28,Hoda Mahmoud,01012907558,Alexandria,Dress,Dresses,1.0,750.0,Cash On Delivery,Delivered,2026-08,750.0
+1212,2026-07-04,حسن يوسف,01128039777,Cairo,Abaya,Dresses,1.0,900.0,Cash On Delivery,Returned,2026-07,900.0
+1338,2026-08-28,-,01108064100,Tanta,Dress,Dresses,1.0,750.0,Credit Card,Delivered,2026-08,750.0
+1006,2026-06-21,Yasmine Ibrahim,01054139822,Alexandria,Blouse,Tops,1.0,,Instapay,Shipped,2026-06,
+1302,2026-07-11,ندى سعد,01511018879,Alexandria,Jacket,Outerwear,,1100.0,Vodafone Cash,Returned,2026-07,
+1048,2026-08-05,ياسمين عبدالله,01559078549,Alexandria,Hoodie,Tops,2.0,450.0,Credit Card,Delivered,2026-08,900.0
+1413,2026-06-25,مصطفى رمضان,01006802505,Assiut,T-Shirt,Tops,2.0,180.0,Instapay,Delivered,2026-06,360.0
+1388,2026-07-25,Youssef Hassan,01138943007,Giza,Sneakers,Shoes,1.0,950.0,Cash On Delivery,Delivered,2026-07,950.0
+1224,2026-06-06,سارة رمضان,01014872129,Mansoura,Sneakers,Shoes,1.0,950.0,Instapay,Shipped,2026-06,950.0
+1176,2026-07-25,عمر خليل,01222748178,Cairo,Abaya,Dresses,2.0,900.0,Vodafone Cash,Delivered,2026-07,1800.0
+1100,2026-07-20,Omar Youssef,01237760730,Assiut,Hoodie,Tops,1.0,450.0,Credit Card,Shipped,2026-07,450.0
+1434,2026-06-28,إسراء سعد,01213067253,Giza,Abaya,Dresses,1.0,900.0,Vodafone Cash,Returned,2026-06,900.0
+1189,2026-07-04,Fatma Ibrahim,01055315257,Tanta,Dress,Dresses,1.0,,Credit Card,Returned,2026-07,
+1316,2026-08-28,Dina Ibrahim,01079448116,Assiut,Skirt,Bottoms,3.0,300.0,Instapay,Delivered,2026-08,900.0
+1440,2026-07-11,Mona Hassan,01276811934,Giza,Sneakers,Shoes,1.0,950.0,Credit Card,Delivered,2026-07,950.0
+1060,2026-06-03,عمر إبراهيم,01193719127,Sohag,Dress,Dresses,1.0,750.0,Instapay,Delivered,2026-06,750.0
+1430,2026-06-03,Karim Saad,01590633981,Mansoura,Dress,Dresses,1.0,750.0,Cash On Delivery,Delivered,2026-06,750.0
+1282,2026-07-07,Nour Ibrahim,01268249488,Cairo,Jacket,Outerwear,1.0,1100.0,Credit Card,Delivered,2026-07,1100.0
+1426,2026-08-22,إسراء حسن,01503228287,Cairo,Dress,Dresses,3.0,750.0,Credit Card,Delivered,2026-08,2250.0
+1341,2026-07-30,ندى سعد,01285323189,Cairo,Hoodie,Tops,1.0,450.0,Vodafone Cash,Cancelled,2026-07,450.0
+1065,2026-08-25,علي صلاح,Not provided,Alexandria,Scarf,Accessories,1.0,120.0,Cash On Delivery,Delivered,2026-08,120.0
+1194,2026-07-05,Fatma Ibrahim,01581874041,Alexandria,Jeans,Bottoms,2.0,550.0,Instapay,Cancelled,2026-07,1100.0
+1199,2026-08-29,عمر رمضان,01566556335,Tanta,Jacket,Outerwear,1.0,1100.0,Credit Card,Delivered,2026-08,1100.0
+1412,2026-08-30,إسراء السيد,01120397403,Alexandria,Scarf,Accessories,1.0,120.0,Cash On Delivery,Shipped,2026-08,120.0
+1247,2026-06-20,علي رمضان,01572462736,Cairo,Blouse,Tops,1.0,320.0,Cash On Delivery,Delivered,2026-06,320.0
+1353,2026-08-31,مصطفى خليل,01568128749,Alexandria,Abaya,Dresses,2.0,900.0,Credit Card,Cancelled,2026-08,1800.0
+1010,2026-06-22,Mohamed Hassan,01527449957,Giza,Dress,Dresses,3.0,750.0,Cash On Delivery,Returned,2026-06,2250.0
+1195,2026-07-03,عمر رمضان,01043359201,Alexandria,Hoodie,Tops,1.0,450.0,Vodafone Cash,Returned,2026-07,450.0
+1312,2026-07-21,مصطفى رمضان,01018444579,Alexandria,Skirt,Bottoms,1.0,300.0,Instapay,Returned,2026-07,300.0
+1014,2026-06-20,Hoda Youssef,Not provided,Alexandria,Hoodie,Tops,2.0,450.0,Cash On Delivery,Delivered,2026-06,900.0
+1029,2026-06-13,ندى صلاح,01221052956,,Sneakers,Shoes,1.0,950.0,Instapay,Delivered,2026-06,950.0
+1011,2026-08-05,Nada Saad,01100849550,Giza,Blouse,Tops,1.0,320.0,Instapay,Delivered,2026-08,320.0
+1117,2026-06-30,مريم فتحي,01070412606,Cairo,Skirt,Bottoms,2.0,300.0,Credit Card,Cancelled,2026-06,600.0
+1156,2026-07-08,Not Found,01596420015,Alexandria,Abaya,Dresses,2.0,,Instapay,Delivered,2026-07,
+1245,2026-07-31,ندى خليل,01249720977,Giza,Jacket,Outerwear,1.0,1100.0,Instapay,Returned,2026-07,1100.0
+1221,2026-07-11,Nour Hassan,01593786711,Alexandria,Hoodie,Tops,2.0,450.0,Vodafone Cash,Returned,2026-07,900.0
+1180,2026-06-29,ياسمين السيد,01283780842,Alexandria,Sneakers,Shoes,1.0,950.0,Cash On Delivery,Delivered,2026-06,950.0
+1333,2026-08-23,ياسمين السيد,01088419363,Giza,Sneakers,Shoes,1.0,950.0,Cash On Delivery,Delivered,2026-08,950.0
+1260,2026-06-23,فاطمة عبدالله,01041875316,Alexandria,T-Shirt,Tops,3.0,180.0,Credit Card,Delivered,2026-06,540.0
+1442,2026-06-25,أحمد رمضان,01254466920,Alexandria,Dress,Dresses,1.0,750.0,Cash On Delivery,Returned,2026-06,750.0
+1403,2026-07-26,مصطفى محمود,Not provided,Alexandria,Blouse,Tops,1.0,320.0,Cash On Delivery,Shipped,2026-07,320.0
+1054,2026-07-19,Karim Ibrahim,01158808009,,Dress,Dresses,1.0,750.0,Credit Card,Cancelled,2026-07,750.0
+1022,2026-07-19,مصطفى السيد,01223885778,Giza,T-Shirt,Tops,2.0,180.0,Instapay,Delivered,2026-07,360.0
+1139,2026-07-17,Nada Youssef,01026610120,Cairo,Hoodie,Tops,1.0,450.0,Credit Card,Delivered,2026-07,450.0
+1067,2026-07-16,عمر عبدالله,01083138783,Alexandria,T-Shirt,Tops,1.0,180.0,Instapay,Delivered,2026-07,180.0
+1246,2026-06-10,ياسمين خليل,01226227697,Assiut,T-Shirt,Tops,1.0,180.0,Cash On Delivery,Delivered,2026-06,180.0
+1283,2026-06-14,محمد عادل,01109359187,Giza,Hoodie,Tops,2.0,450.0,Vodafone Cash,Shipped,2026-06,900.0
+1042,2026-07-07,إسراء عبدالله,01163666768,Assiut,Scarf,Accessories,2.0,120.0,Cash On Delivery,Delivered,2026-07,240.0
+1314,2026-08-31,آية عادل,01586777862,Mansoura,Blouse,Tops,3.0,320.0,Cash On Delivery,Delivered,2026-08,960.0
+1307,2026-07-25,سارة فتحي,01586440342,Mansoura,Skirt,Bottoms,1.0,300.0,Instapay,Returned,2026-07,300.0
+1214,2026-08-13,حسن صلاح,01147134752,Sohag,Jacket,Outerwear,2.0,,Cash On Delivery,Shipped,2026-08,
+1423,2026-06-17,دينا فتحي,01007167622,Giza,T-Shirt,Tops,3.0,180.0,Cash On Delivery,Delivered,2026-06,540.0
+1178,2026-08-05,نور فتحي,01256886154,Alexandria,Blouse,Tops,1.0,320.0,Cash On Delivery,Cancelled,2026-08,320.0
+1019,2026-07-01,مصطفى عادل,01181096748,Mansoura,Hoodie,Tops,1.0,450.0,Credit Card,Delivered,2026-07,450.0
+1360,2026-06-02,عمر سعد,01037760321,Giza,Sneakers,Shoes,1.0,950.0,Instapay,Cancelled,2026-06,950.0
+1393,2026-07-21,رنا سعد,Not provided,Cairo,Skirt,Bottoms,1.0,300.0,Credit Card,Shipped,2026-07,300.0
+1289,2026-06-10,حسن عادل,01120942708,Giza,Jeans,Bottoms,1.0,,Cash On Delivery,Returned,2026-06,
+1253,2026-06-09,عمر السيد,01036715933,Tanta,Jacket,Outerwear,1.0,1100.0,Cash On Delivery,Delivered,2026-06,1100.0
+1121,2026-08-31,آية حسن,01544651009,Mansoura,Sneakers,Shoes,1.0,950.0,Credit Card,Delivered,2026-08,950.0
+1340,2026-08-23,Rana Mahmoud,01255146295,Cairo,T-Shirt,Tops,1.0,180.0,Vodafone Cash,Returned,2026-08,180.0
+1169,2026-08-20,نور إبراهيم,01245373210,Giza,T-Shirt,Tops,1.0,180.0,Instapay,Delivered,2026-08,180.0
+1281,2026-08-30,منى عبدالله,01149133221,Cairo,Hoodie,Tops,3.0,450.0,Cash On Delivery,Returned,2026-08,1350.0
+1031,2026-06-08,حسن السيد,01092261100,Mansoura,Skirt,Bottoms,1.0,300.0,Vodafone Cash,Delivered,2026-06,300.0
+1172,2026-07-29,رنا حسن,01000755223,Mansoura,Hoodie,Tops,1.0,450.0,Cash On Delivery,Delivered,2026-07,450.0
+1134,2026-08-18,دينا سعد,01131880171,Cairo,Jacket,Outerwear,1.0,1100.0,Credit Card,Delivered,2026-08,1100.0
+1174,2026-06-16,Nada Hassan,01559379346,Mansoura,T-Shirt,Tops,1.0,180.0,Vodafone Cash,Returned,2026-06,180.0
+1017,2026-07-03,يوسف السيد,01509577630,Giza,Hoodie,Tops,1.0,450.0,Credit Card,Cancelled,2026-07,450.0
+1335,2026-06-17,حسن رمضان,01187280966,Sohag,Hoodie,Tops,2.0,450.0,Cash On Delivery,Delivered,2026-06,900.0
+1135,2026-07-26,Fatma Mahmoud,01561969725,Giza,Blouse,Tops,4.0,320.0,Vodafone Cash,Delivered,2026-07,1280.0
+1242,2026-07-26,كريم سعد,01141398196,Giza,Dress,Dresses,1.0,750.0,Cash On Delivery,Delivered,2026-07,750.0
+1057,2026-07-30,دينا رمضان,01032690535,Alexandria,Sneakers,Shoes,1.0,950.0,Cash On Delivery,Delivered,2026-07,950.0
+1119,2026-07-02,Sara Youssef,01026729088,Giza,Abaya,Dresses,1.0,900.0,Vodafone Cash,Cancelled,2026-07,900.0
+1030,2026-08-01,محمد خليل,01040601539,Giza,Skirt,Bottoms,3.0,300.0,Vodafone Cash,Shipped,2026-08,900.0
+1432,2026-08-03,هدى رمضان,01592187917,Sohag,Jacket,Outerwear,2.0,1100.0,Vodafone Cash,Cancelled,2026-08,2200.0
+1205,2026-08-20,يوسف إبراهيم,01267712977,Cairo,Scarf,Accessories,1.0,120.0,Vodafone Cash,Delivered,2026-08,120.0
+1160,2026-08-22,Hassan Saad,01009544173,Sohag,Abaya,Dresses,2.0,900.0,Instapay,Delivered,2026-08,1800.0
+1435,2026-07-24,منى يوسف,01533184941,Sohag,Scarf,Accessories,3.0,120.0,Credit Card,Delivered,2026-07,360.0
+1313,2026-08-10,Youssef Mahmoud,01581664417,Cairo,Dress,Dresses,1.0,750.0,Instapay,Delivered,2026-08,750.0
+1266,2026-08-23,ندى صلاح,01177385403,Cairo,Jeans,Bottoms,1.0,550.0,Cash On Delivery,Delivered,2026-08,550.0
+1124,2026-06-20,حسن سعد,01059743472,Cairo,Abaya,Dresses,1.0,900.0,Instapay,Cancelled,2026-06,900.0
+1295,2026-06-05,Ali Hassan,01067253938,Sohag,T-Shirt,Tops,3.0,180.0,Instapay,Delivered,2026-06,540.0
+1274,2026-07-30,Mariam Saad,01118248354,Alexandria,Dress,Dresses,1.0,750.0,Cash On Delivery,Delivered,2026-07,750.0
+1039,2026-08-20,يوسف صلاح,01580069974,Giza,Dress,Dresses,4.0,750.0,Cash On Delivery,Delivered,2026-08,3000.0
+1148,2026-08-16,حسن خليل,01264323269,Alexandria,Abaya,Dresses,1.0,900.0,Instapay,Shipped,2026-08,900.0
+1081,2026-08-28,Dina Ibrahim,01245972558,Cairo,Skirt,Bottoms,2.0,300.0,Cash On Delivery,Delivered,2026-08,600.0
+1428,2026-08-20,حسن إبراهيم,01192046507,Assiut,Hoodie,Tops,2.0,450.0,Credit Card,Delivered,2026-08,900.0
+1184,2026-08-29,Rana Youssef,01514282841,Tanta,Dress,Dresses,1.0,750.0,Instapay,Delivered,2026-08,750.0
+1361,2026-07-07,عمر إبراهيم,01183259626,Assiut,Dress,Dresses,2.0,750.0,Credit Card,Returned,2026-07,1500.0
+1200,2026-08-08,هدى إبراهيم,01594042203,Assiut,Abaya,Dresses,1.0,,Credit Card,Delivered,2026-08,
+1149,2026-07-04,Ali Youssef,01530751725,Giza,T-Shirt,Tops,4.0,180.0,Credit Card,Returned,2026-07,720.0
+1115,2026-06-12,حسن صلاح,01566873984,Giza,Abaya,Dresses,1.0,900.0,Instapay,Returned,2026-06,900.0
+1012,2026-06-10,هدى محمود,01002298831,Cairo,Skirt,Bottoms,1.0,300.0,Instapay,Delivered,2026-06,300.0
+1170,2026-08-19,مريم فتحي,01013269208,Giza,Skirt,Bottoms,1.0,300.0,Cash On Delivery,Delivered,2026-08,300.0
+1277,2026-08-28,ياسمين يوسف,01280534391,Mansoura,Skirt,Bottoms,2.0,300.0,Vodafone Cash,Shipped,2026-08,600.0
+1308,2026-06-17,حسن حسن,01285200014,Mansoura,Skirt,Bottoms,1.0,300.0,Vodafone Cash,Delivered,2026-06,300.0
+1027,2026-07-12,علي حسن,01132258551,Sohag,Abaya,Dresses,1.0,900.0,Instapay,Shipped,2026-07,900.0
+1256,2026-06-13,يوسف سعد,01180815602,Cairo,T-Shirt,Tops,2.0,180.0,Credit Card,Delivered,2026-06,360.0
+1061,2026-06-22,عمر خليل,01046242745,Cairo,Scarf,Accessories,2.0,120.0,Instapay,Shipped,2026-06,240.0
+1052,2026-06-24,Youssef Ibrahim,01507905341,Cairo,Abaya,Dresses,1.0,900.0,Cash On Delivery,Delivered,2026-06,900.0
+1153,2026-07-15,عمر يوسف,01035182275,Alexandria,Jeans,Bottoms,2.0,550.0,Cash On Delivery,Delivered,2026-07,1100.0
+1265,2026-06-27,عمر يوسف,01063959303,Cairo,Sneakers,Shoes,1.0,950.0,Credit Card,Delivered,2026-06,950.0
+1401,2026-06-07,علي سعد,01192166939,Alexandria,Blouse,Tops,1.0,320.0,Cash On Delivery,Delivered,2026-06,320.0
+1066,2026-07-16,مريم فتحي,Not provided,Cairo,Abaya,Dresses,1.0,900.0,Vodafone Cash,Delivered,2026-07,900.0
+1041,2026-08-15,هدى عادل,01564398133,Mansoura,Hoodie,Tops,1.0,450.0,Cash On Delivery,Shipped,2026-08,450.0
+1292,2026-07-10,كريم عادل,01549220725,Cairo,Hoodie,Tops,1.0,450.0,Instapay,Shipped,2026-07,450.0
+1450,2026-07-10,عمر خليل,Not provided,Cairo,Sneakers,Shoes,1.0,950.0,Credit Card,Delivered,2026-07,950.0
+1193,2026-06-02,Esraa Mahmoud,01553625246,Sohag,Abaya,Dresses,2.0,900.0,Vodafone Cash,Delivered,2026-06,1800.0
+1321,2026-08-09,ندى عبدالله,01183457825,Giza,Blouse,Tops,1.0,320.0,Cash On Delivery,Delivered,2026-08,320.0
+1219,2026-08-04,Dina Saad,01068880521,Giza,Jeans,Bottoms,4.0,550.0,Cash On Delivery,Cancelled,2026-08,2200.0
+1035,2026-08-03,Not Found,01025946196,,Sneakers,Shoes,1.0,950.0,Instapay,Delivered,2026-08,950.0
+1411,2026-07-31,نور فتحي,01247460106,Cairo,Blouse,Tops,2.0,320.0,Cash On Delivery,Delivered,2026-07,640.0
+1071,2026-08-29,عمر عادل,01251217053,Alexandria,Blouse,Tops,2.0,320.0,Cash On Delivery,Delivered,2026-08,640.0
+1287,2026-07-17,إسراء خليل,Not provided,Cairo,T-Shirt,Tops,1.0,180.0,Cash On Delivery,Cancelled,2026-07,180.0
+1317,2026-08-30,حسن حسن,01570631844,Cairo,Blouse,Tops,2.0,320.0,Instapay,Delivered,2026-08,640.0
+1183,2026-08-17,عمر رمضان,01595857069,Giza,Hoodie,Tops,2.0,450.0,Credit Card,Returned,2026-08,900.0
+1181,2026-08-01,ياسمين فتحي,01521800516,Alexandria,Abaya,Dresses,2.0,900.0,Cash On Delivery,Delivered,2026-08,1800.0
+1257,2026-06-16,سارة عادل,01513125176,Assiut,T-Shirt,Tops,1.0,180.0,Instapay,Delivered,2026-06,180.0
+1243,2026-08-29,دينا عادل,01564483240,,Dress,Dresses,3.0,750.0,Instapay,Delivered,2026-08,2250.0
+1424,2026-07-29,فاطمة سعد,01235571141,Assiut,Jacket,Outerwear,2.0,1100.0,Credit Card,Delivered,2026-07,2200.0
+1293,2026-08-25,Mohamed Saad,01038825516,Cairo,Dress,Dresses,3.0,750.0,Instapay,Delivered,2026-08,2250.0
+1107,2026-07-18,محمد حسن,01130149191,Alexandria,Scarf,Accessories,1.0,120.0,Vodafone Cash,Returned,2026-07,120.0
+1427,2026-08-13,محمد سعد,01153630949,,Abaya,Dresses,1.0,900.0,Credit Card,Delivered,2026-08,900.0
+1098,2026-06-11,سارة يوسف,01542628096,Alexandria,Skirt,Bottoms,2.0,300.0,Credit Card,Returned,2026-06,600.0
+1255,2026-06-06,Esraa Ibrahim,01186468159,Tanta,T-Shirt,Tops,1.0,180.0,Cash On Delivery,Delivered,2026-06,180.0
+1329,2026-06-16,محمد صلاح,01175473104,Giza,Abaya,Dresses,1.0,900.0,Credit Card,Cancelled,2026-06,900.0
+1374,2026-08-16,نور يوسف,01237736588,Assiut,Jeans,Bottoms,3.0,550.0,Cash On Delivery,Delivered,2026-08,1650.0
+1350,2026-08-17,عمر خليل,01592351154,Mansoura,Abaya,Dresses,1.0,900.0,Cash On Delivery,Cancelled,2026-08,900.0
+1095,2026-07-23,دينا رمضان,01170557212,Giza,Jeans,Bottoms,1.0,550.0,Instapay,Cancelled,2026-07,550.0
+1175,2026-08-10,هدى محمود,01021593622,Alexandria,Sneakers,Shoes,1.0,950.0,Instapay,Delivered,2026-08,950.0
+1037,2026-07-28,Hassan Ibrahim,01237398923,Assiut,Jacket,Outerwear,3.0,1100.0,Credit Card,Cancelled,2026-07,3300.0
+1443,2026-08-28,سارة عبدالله,01112672019,Sohag,Dress,Dresses,1.0,750.0,Vodafone Cash,Delivered,2026-08,750.0
+1280,2026-06-19,Mohamed Youssef,01293157250,Mansoura,Abaya,Dresses,1.0,900.0,Vodafone Cash,Cancelled,2026-06,900.0
+1291,2026-06-08,Mostafa Youssef,01242778489,Mansoura,Scarf,Accessories,2.0,120.0,Vodafone Cash,Shipped,2026-06,240.0
+1209,2026-06-06,أحمد فتحي,01202512316,Giza,T-Shirt,Tops,1.0,180.0,Instapay,Cancelled,2026-06,180.0
+1397,2026-07-09,كريم رمضان,01067138756,Giza,Jacket,Outerwear,1.0,1100.0,Credit Card,Delivered,2026-07,1100.0
+1185,2026-07-25,حسن سعد,01225569325,Assiut,Abaya,Dresses,1.0,900.0,Instapay,Returned,2026-07,900.0
+1003,2026-06-27,Karim Saad,01061713965,Giza,Blouse,Tops,1.0,320.0,Cash On Delivery,Delivered,2026-06,320.0
+1072,2026-07-28,Karim Mahmoud,Not provided,Assiut,Hoodie,Tops,2.0,450.0,Vodafone Cash,Delivered,2026-07,900.0
+1018,2026-06-25,Sara Youssef,01569635024,Giza,Skirt,Bottoms,1.0,300.0,Instapay,Delivered,2026-06,300.0
+1105,2026-08-30,سارة خليل,01280876132,,T-Shirt,Tops,1.0,180.0,Credit Card,Delivered,2026-08,180.0
+1050,2026-08-25,مصطفى محمود,01164004731,,Abaya,Dresses,2.0,900.0,Instapay,Delivered,2026-08,1800.0
+1343,2026-07-04,Yasmine Hassan,01081683243,Alexandria,Jeans,Bottoms,1.0,550.0,Instapay,Shipped,2026-07,550.0
+1323,2026-06-10,Sara Mahmoud,01555324449,Cairo,Jacket,Outerwear,1.0,1100.0,Cash On Delivery,Delivered,2026-06,1100.0
+1013,2026-07-07,Nada Saad,01226249804,,Hoodie,Tops,1.0,450.0,Cash On Delivery,Cancelled,2026-07,450.0
+1299,2026-06-20,مصطفى محمود,01215057984,Cairo,Dress,Dresses,2.0,750.0,Vodafone Cash,Delivered,2026-06,1500.0
+1045,2026-07-01,Mariam Ibrahim,01133965578,Cairo,T-Shirt,Tops,1.0,180.0,Credit Card,Delivered,2026-07,180.0
+1099,2026-06-13,دينا سعد,01029652962,Cairo,Abaya,Dresses,1.0,900.0,Cash On Delivery,Shipped,2026-06,900.0
+1405,2026-07-14,نور عادل,01024541310,Cairo,Sneakers,Shoes,2.0,950.0,Cash On Delivery,Delivered,2026-07,1900.0
+1415,2026-06-05,حسن حسن,01160692261,Cairo,Jacket,Outerwear,1.0,1100.0,Instapay,Returned,2026-06,1100.0
+1271,2026-08-12,ندى يوسف,01531406106,Giza,Scarf,Accessories,2.0,120.0,Credit Card,Delivered,2026-08,240.0
+1417,2026-07-06,Karim Saad,01201724286,Giza,Skirt,Bottoms,1.0,,Instapay,Delivered,2026-07,
+1223,2026-07-29,منى محمود,01540733675,Tanta,Jacket,Outerwear,2.0,1100.0,Cash On Delivery,Returned,2026-07,2200.0
+1083,2026-07-07,Nour Hassan,01090557991,Tanta,Jacket,Outerwear,2.0,1100.0,Cash On Delivery,Shipped,2026-07,2200.0
+1380,2026-08-28,رنا إبراهيم,01163676786,Cairo,Dress,Dresses,1.0,750.0,Credit Card,Delivered,2026-08,750.0
+1104,2026-08-17,Youssef Ibrahim,01141337697,Giza,Blouse,Tops,1.0,320.0,Credit Card,Delivered,2026-08,320.0
+1116,2026-06-03,Nour Ibrahim,01140926161,Assiut,Hoodie,Tops,2.0,450.0,Credit Card,Delivered,2026-06,900.0
+1147,2026-08-22,رنا يوسف,01026977288,Assiut,Jacket,Outerwear,3.0,1100.0,Vodafone Cash,Cancelled,2026-08,3300.0
+1348,2026-07-22,Youssef Youssef,01045713274,Cairo,Skirt,Bottoms,2.0,300.0,Instapay,Cancelled,2026-07,600.0
+1225,2026-07-23,Mostafa Saad,01015724269,Alexandria,Sneakers,Shoes,1.0,950.0,Cash On Delivery,Delivered,2026-07,950.0
+1252,2026-06-14,إسراء إبراهيم,01210524816,Alexandria,Jeans,Bottoms,2.0,550.0,Vodafone Cash,Delivered,2026-06,1100.0
+1130,2026-06-12,Aya Saad,01219094743,Cairo,Jacket,Outerwear,2.0,1100.0,Cash On Delivery,Delivered,2026-06,2200.0
+1101,2026-07-19,عمر سعد,01506770176,Giza,Abaya,Dresses,1.0,900.0,Cash On Delivery,Delivered,2026-07,900.0
+1103,2026-06-09,آية يوسف,01244022651,Cairo,Skirt,Bottoms,1.0,300.0,Credit Card,Delivered,2026-06,300.0
+1285,2026-06-26,كريم خليل,01542385904,Alexandria,Jacket,Outerwear,2.0,1100.0,Credit Card,Shipped,2026-06,2200.0
+1294,2026-07-01,دينا حسن,01111942543,Assiut,Scarf,Accessories,2.0,120.0,Credit Card,Delivered,2026-07,240.0
